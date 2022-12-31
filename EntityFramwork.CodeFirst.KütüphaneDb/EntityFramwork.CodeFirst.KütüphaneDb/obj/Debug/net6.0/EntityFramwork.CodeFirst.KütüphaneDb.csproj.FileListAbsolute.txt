@@ -1,0 +1,146 @@
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.exe
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.deps.json
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.runtimeconfig.json
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.pdb
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Azure.Core.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Azure.Identity.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.csproj.AssemblyReference.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.AssemblyInfoInputs.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.AssemblyInfo.cs
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.csproj.CoreCompileInputs.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.csproj.CopyComplete
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\refint\EntityFramwork.CodeFirst.KütüphaneDb.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.pdb
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.genruntimeconfig.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\ref\EntityFramwork.CodeFirst.KütüphaneDb.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Humanizer.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.CodeDom.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Text.Json.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\FakeData.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.exe
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.deps.json
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.runtimeconfig.json
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.pdb
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Azure.Core.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Azure.Identity.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\FakeData.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Humanizer.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.CodeDom.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Text.Json.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.csproj.AssemblyReference.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.AssemblyInfoInputs.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.AssemblyInfo.cs
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.csproj.CoreCompileInputs.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.csproj.CopyComplete
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\refint\EntityFramwork.CodeFirst.KütüphaneDb.dll
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.pdb
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\EntityFramwork.CodeFirst.KütüphaneDb.genruntimeconfig.cache
+D:\Software\EF\EntityFramwork.CodeFirst.KütüphaneDb - Kopya\EntityFramwork.CodeFirst.KütüphaneDb\obj\Debug\net6.0\ref\EntityFramwork.CodeFirst.KütüphaneDb.dll
